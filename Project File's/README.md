@@ -1,4 +1,4 @@
-# Car-parking-Detection
+# Al-Enabled-Car-Parking-Using-Open-CV
 - This project find outs the count of empty and occioped parking spaces in a car-parking-lot using through digital image processing techniques form opencv.
 
 - Clone the repository.
