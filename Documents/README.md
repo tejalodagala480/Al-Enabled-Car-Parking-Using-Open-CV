@@ -2,10 +2,20 @@
                Submitted by
 
 Team Leader: - Lodagala Teja (SBAP0004605)
+
+
 Team Members:- Ratnala Manasa (SBAP0004616)
+
+
              - Tanuja Oleti (SBAP0004622)
+
+             
              - Vanapalli Priyanka (SBAP0004628)
+
+             
              - Bachu Laxmi Narasimha Sathya Abhishek (SBAP0004538)
+
+             
 
 Project Name:- Al Enabled Car Parking using OpenCV.
 
