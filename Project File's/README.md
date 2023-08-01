@@ -3,7 +3,7 @@
 
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/car-parking-finder.git
+git clone https://github.com/tejalodagala480/Al-Enabled-Car-Parking-Using-Open-CV
 ```
 - Goto the cloned folder.
 ```
