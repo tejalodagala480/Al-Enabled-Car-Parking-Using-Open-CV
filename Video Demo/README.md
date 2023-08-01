@@ -18,7 +18,9 @@ The primary route-way of the proposed algorithm for parking space discovery are.
 
 
 • Next, decide where the single parking space's parallels are. As a result, the parking lot will be divided into spaces of cognate size. 
+
 5. In order to turn the parking lot into black and the auto into white, each block is first converted from grayscale to double and then to inverse binary. 
+
 6.To determine if a block contains a car or not, a threshold value is computed for each block. Blocks are free and available for parking if their value is less than a threshold value, and they're occupied if their worth exceeds the threshold.
 
  ![image](https://github.com/tejalodagala480/Al-Enabled-Car-Parking-Using-Open-CV/assets/106898126/9dedf894-b32a-4df5-bec8-f9ee3a7e54e9)
