@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 ## Problem Defination
-- finding out the empty parking spaces in a Al-Enabled-Car-Parking-Using-Open-CV aotomatically from servillance camera.
+- finding out the empty parking spaces in a Al-Enabled-Car-Parking-Using-Open-CV automatically from servillance camera.
 
 ## solution
 - Extracting the parking lot coordinates form the image by car_park_coordinate_generator.py script.
