@@ -15,6 +15,8 @@ The primary route-way of the proposed algorithm for parking space discovery are.
 2. When a horseless carriage pulls into or out of the parking space, filmmaking are taken. 
 3. Grayscale images are created by converting RGB images. 
 4. Make a adjustments Choosing the parking lot's equals first is a good idea. This will remove any unnecessary white space from the image other than the parking lot. 
+
+
 • Next, decide where the single parking space's parallels are. As a result, the parking lot will be divided into spaces of cognate size. 
 5. In order to turn the parking lot into black and the auto into white, each block is first converted from grayscale to double and then to inverse binary. 
 6.To determine if a block contains a car or not, a threshold value is computed for each block. Blocks are free and available for parking if their value is less than a threshold value, and they're occupied if their worth exceeds the threshold.
@@ -24,41 +26,58 @@ The primary route-way of the proposed algorithm for parking space discovery are.
 # Pre-Requisites
 1.	To complete this project, you must have the following software versions and packages. 
 To make a responsive Python script you must require the following packages. 
+
 •	PyCharm (Download: https://www.jetbrains.com/pycharm/ ) 
+
+
 •	Python 3.7.0 (Download: https://www.python.org/downloads/release/python-370/ )
+
+
 •	NumPy
+
+
 •	Cv zone
 
 Flask: 
+
 •	Web framework used for building web applications. 
+
 •	Flask Basics: Click here 
 
 If you are using anaconda navigator, follow the below steps to download the required packages: 
 •	Open anaconda prompt. 
+
 •	Type "pip install OpenCV-python” and click enter. 
+
 •	Type "pip install cv zone” and click enter. 
+
 •	Type “pip install Flask” and click enter. 
 
 If you are using PyCharm IDE, you can install the packages through the command prompt and follow the same syntax as above.
 
 
 # Project Flow
+
 •	Data Collection
 o	Download the dataset.
+
 •	ROI (Region of interest)
 o	Create python file.
 o	Import required libraries.
 o	Define ROI width and height.
 o	Select and deselect ROI.
 o	Denote ROI with BBOX
+
 •	Video Processing and object detection
 o	Import required libraries.
 o	Reading input and loading the ROI file
 o	Checking for parking space
 o	Looping the video
 o	Frame processing and empty parking slot counters
+
 •	IBM Database Connection
 o	Create IBM DB2 service and table.
+
 •	Application building
 o	Build HTML
 o	Build Python script for Flask.
@@ -73,7 +92,9 @@ Create a new Python file to perform video processing, object detection, and coun
 # Application Building
 In this section, we will be building a web application that is integrated to the model we built. A UI is provided for the uses where he must enter the values for predictions. The enter values are given to the saved model and prediction is showcased on the UI.
 This section has the following tasks.
+
 •	Building HTML Pages 
+
 •	Building python code
 
 # Building Html Pages
