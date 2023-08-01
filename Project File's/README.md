@@ -7,7 +7,7 @@ git clone https://github.com/tejalodagala480/Al-Enabled-Car-Parking-Using-Open-C
 ```
 - Goto the cloned folder.
 ```
-cd car-parking-finder
+cd Al-Enabled-Car-Parking-Using-Open-CV
 
 ```
 - Upgrade pip with mentioned command below.
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 ## Problem Defination
-- finding out the empty parking spaces in a car-parking-lot aotomatically from servillance camera.
+- finding out the empty parking spaces in a Al-Enabled-Car-Parking-Using-Open-CV aotomatically from servillance camera.
 
 ## solution
 - Extracting the parking lot coordinates form the image by car_park_coordinate_generator.py script.
